@@ -8,7 +8,7 @@
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas na <a href="link da sua faculdade">UNICESUMAR</a>.
 - 💼 Trabalhando como Desenvolvedor de software e Apps LowCode na <a href="LINK DA EMPRESA">GLOBO-SP</a> Através da <a href="LINK DA EMPRESA">CADMUS</a>
 - 🌱 Aprendendo mais sobre Desenvolvimento de Software BackEnd.
-- :video_game:  Jogo CS2 | Sniper Elite | Valorant | BlackDesert
+- :video_game: Nas horas vagas Jogo CS2 | Sniper Elite | Valorant | BlackDesert
 </br></br>
 
 <h3>Onde me encontrar</h3>
