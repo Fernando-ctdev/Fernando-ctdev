@@ -5,8 +5,8 @@
 <h3>Sobre mim</h3>
 
 -  :computer:  Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas na <a href="link da sua faculdade">UNICESUMAR</a>.
-- 💼 Trabalhando como Desenvolvedor de software, Apps e portais corporativos na <a href="LINK DA EMPRESA">GLOBO-SP</a> Através da <a href="LINK DA EMPRESA">CADMUS</a>
+- 🎓 Graduando em Engenharia de Software
+- 💼 Trabalhando como Desenvolvedor de software, Apps e portais corporativos na <a href="LINK DA EMPRESA">REDE GLOBO</a>
 - 🌱 Aprendendo mais sobre Desenvolvimento de Software BackEnd.
 - :video_game: Nas horas vagas Jogo CS2 | Sniper Elite | Valorant | BlackDesert
 </br></br>
