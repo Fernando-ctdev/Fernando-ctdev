@@ -7,8 +7,9 @@
 -  :computer:  Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Graduando em Engenharia de Software
 - 💼 Trabalhando como Desenvolvedor de software, Apps e portais corporativos na <a href="LINK DA EMPRESA">REDE GLOBO</a>
-- 🌱 Aprendendo mais sobre Desenvolvimento de Software BackEnd.
+- 🌱 Foco no Desenvolvimento de Software BackEnd com Nodejs e Go.
 - :video_game: Nas horas vagas Jogo CS2 | Sniper Elite | Valorant | BlackDesert
+- 🎸 Sou guitarrista e apaixonado por música
 </br></br>
 
 <h3>Onde me encontrar</h3>
@@ -21,13 +22,33 @@
 
 ## 🚀 Hard Skills
 
-<code><img height="32" src="https://i.ibb.co/d4cdjxj/OIP.jpg" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://i.ibb.co/x3dB9QJ/png-transparent-postgresql-plain-wordmark-logo-icon.png" alt="PostgreSQL"/></code>
-<code><img height="32" src="https://i.ibb.co/Twpyj52/Design-sem-nome-4.png" alt="Powerapps"/></code>
-<code><img height="32" src="https://i.ibb.co/k3Y7145/5229909-middle.png" alt="Sharepoint"/></code>
-<code><img height="32" src="https://i.ibb.co/3pz6ptZ/logo-power-automate.png" alt="PowerAutomate"/></code>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gulp" height="40" alt="gulp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+
 </br></br>
 
 
