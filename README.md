@@ -6,8 +6,8 @@
 
 -  :computer:  Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Graduando em Engenharia de Software
-- 💼 Trabalhando como Desenvolvedor de software, Apps e portais corporativos na <a href="LINK DA EMPRESA">REDE GLOBO</a>
-- 🌱 Foco no Desenvolvimento de Software BackEnd com Nodejs e Go.
+- 💼 Trabalhando como Desenvolvedor de software, Apps Web e portais corporativos na <a href="LINK DA EMPRESA">REDE GLOBO</a>
+- 🌱 Foco no Desenvolvimento de Software BackEnd com Nodejs e Go e Full Stack com a PowerPlatform Microsoft.
 - :video_game: Nas horas vagas Jogo CS2 | Sniper Elite | Valorant | BlackDesert
 - 🎸 Sou guitarrista e apaixonado por música
 </br></br>
