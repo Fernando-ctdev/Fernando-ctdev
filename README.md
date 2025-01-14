@@ -9,15 +9,14 @@
 - 🌱 Foco no Desenvolvimento de Software BackEnd com Nodejs e Go, e Full Stack com a PowerPlatform Microsoft.
 - :video_game: Nas horas vagas Jogo CS2 | Sniper Elite | Valorant | BlackDesert
 - 🎸 Sou guitarrista e apaixonado por música
+
 </br></br>
 
 <h3>Onde me encontrar</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/devmfernando/)
 
-
 ---
-
 
 ## 🚀 Hard Skills
 
@@ -49,9 +48,23 @@
   <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Sharepoint-28x281?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain" height="40" alt="git logo"  />
 </div>
 
-
 </br></br>
 
+## 👥 Soft Skills
+
+<div align="left">
+  
+- 💬 **Comunicação Clara e Objetiva**
+- 🔄 **Aprendizado Rápido e Adaptabilidade**
+- 🤝 **Colaboração Efetiva em Equipe**
+- ⚡ **Foco em Qualidade e Agilidade**
+- 👥 **Experiência com Pair Programming e Code Reviews**
+- 📝 **Comprometimento com Feedback Construtivo**
+- 🌟 **Ambiente Dinâmico e Positivo**
+
+</div>
+
+</br></br>
 
 ## 🛠️ Ferramentas de Desenvolvimento
 
@@ -59,7 +72,4 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![PowerPLatform](https://img.shields.io/badge/Miscrosoft-PowerPlatform-333333%3Fstyle%3Dflat%26logo%3Dfigma%26logoColor%3D007ACC)
 
-
 ---
-
-
