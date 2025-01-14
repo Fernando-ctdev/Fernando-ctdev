@@ -32,8 +32,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gulp" height="40" alt="gulp logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
@@ -43,6 +41,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/fluent/512/microsoft-power-apps.png" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=512&id=kTTt25v6Drpd&format=png" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Sharepoint-28x281?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain" height="40" alt="git logo"  />
 </div>
 
 
