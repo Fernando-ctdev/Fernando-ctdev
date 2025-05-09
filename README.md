@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-## 💜 Olá, meu nome é <strong>Maicon Fernando!</strong>
+## Olá, meu nome é <strong>Maicon Fernando!</strong>
 
 <h3>Sobre mim</h3>
 
@@ -36,6 +36,10 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://logospng.org/download/vite-js/vite-js-2048-logo.png" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=512&id=zJh5Gyrd6ZKu&format=png" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
